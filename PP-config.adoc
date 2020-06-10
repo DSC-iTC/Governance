@@ -1,4 +1,4 @@
-= Allowed Components for the _Coffee Maker_ cPP
+= Allowed Components for the Dedicated Security Components cPP
 :showtitle:
 :toc: macro
 :imagesdir: images
@@ -6,12 +6,13 @@
 :revnumber: 0.2
 :revdate: 2019-08-23
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
-:pp-name: Coffee Maker cPP
+:iTC-longname: Dedicated Security Components
+:iTC-shortname: DSC-iTC
+:iTC-ITname: DIT
+:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-website: https://DSC-iTC.github.io/
+:iTC-GitHub: https://github.com/DSC-iTC/cPP
+:pp-name: Dedicated Security Components cPP
 
 == Introduction
 This page lists the various cPPs and PP-Modules that are approved by the {iTC-shortname} to be used in conjunction with the {pp-name} in PP-Configurations.
@@ -25,6 +26,7 @@ It may be necessary over time to explicitly reject cPPs (or specific versions) f
 .Allowed Components
 [%header,cols="1,1,1,1,1,2"]
 |===
+
 |cPP/PP-Module 
 |Version/Date
 |Date Approved
@@ -32,12 +34,12 @@ It may be necessary over time to explicitly reject cPPs (or specific versions) f
 |Link
 |Description
 
-|Milk Frother PP-Module
-|v1.0, January 1, 2019
-|March 1, 2019
-|Frother iTC
-|http://milkfrother.somewhere.us[homepage]
-|Milk frother for coffee (and tea)
+|
+|
+|
+|
+|
+|
 
 |===
 
@@ -47,7 +49,7 @@ It may be necessary over time to explicitly reject cPPs (or specific versions) f
 Here you would provide the reasons for the allowed inclusion. This can be as short or as long as the iTC determines is necessary.
 ====
 
-==== Milk Frother
+==== EXAMPLE
 Everyone needs the ability to froth their milk before putting it in their coffee, and doing so does not impact the ability to make coffee as defined in the {pp-name}.
 
 == Archive List of Previously Approved Components
@@ -59,17 +61,18 @@ As cPPs and components evolve versions may no longer be considered compatible. A
 .Archived Components
 [%header,cols="1,1,1,1,1"]
 |===
+
 |cPP/PP-Module 
 |Version/Date
 |Date Removed
 |Responsible iTC
 |Last cPP compatible version
 
-|Milk Frother PP-Module
-|v1.0, January 1, 2019
-|March 1, 2020
-|Frother iTC
-|version 1.1
+|
+|
+|
+|
+|
 
 |===
 
@@ -79,5 +82,5 @@ As cPPs and components evolve versions may no longer be considered compatible. A
 Here you would provide the reasons for components no longer being listed as approved. This can be as short or as long as the iTC determines is necessary.
 ====
 
-==== Milk Frother
+==== EXAMPLE
 With the release of {pp-name} v2.0, the requirements on milk frothing have been integrated into the cPP and so the PP-Module is no longer necessary.

@@ -1,17 +1,17 @@
-= Contributing to the iTC
+= Contributing to the DSC-iTC
 :showtitle:
 :toc: macro
 :toclevels: 3
 :imagesdir: images
 :icons: font
 :revnumber: 0.1
-:revdate: 2020-02-20
+:revdate: 2020-06-10
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/
+:iTC-longname: Dedicated Security Components
+:iTC-shortname: DSC-iTC
+:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-website: https://DSC-iTC.github.io/
+:iTC-GitHub: https://github.com/DSC-iTC/
 
 We want to thank you for taking the time to contribute. :+1: The {iTC-longname} iTC is made up of volunteers, so every bit of help is appreciated.
 
@@ -32,10 +32,10 @@ The repositories where active work related to the cPP/SD are:
 |Repository
 |Description
 
-|{iTC-GitHub}repo1[Repository 1]
+|{iTC-GitHub}cPP[cPP]
 |The repository for the cPP and SD
 
-|{iTC-GitHub}repo2[Repository 2]
+|{iTC-GitHub}Governance[Governance]
 |The repository for the administrative documents related to the {iTC-shortname}
 
 |===
@@ -48,7 +48,7 @@ To help with submitting new Issues, several templates have been created to help 
 
 Before creating a new issue though, please check the {iTC-GitHub}repo1/issues?q=is%3Aissue+is%3Aclosed[list of Closed Issues] to see if this topic has already been discussed. Just because something is closed does not mean it can't be revisited, but opening new issues on existing (and especially closed) topics is not helpful to the community overall.
 
-Go {iTC-GitHub}repo1/issues/new/choose[here] to create a new Issue.
+Go {iTC-GitHub}cPP/issues/new/choose[here] to create a new Issue.
 
 If you are unfamiliar with GitHub, the CCUF Team Tools Working Group has created a https://itc-wgtools.github.io/user-guide/userguide.html[iTC User Guide] to walk through the functionality of GitHub for iTC members.
 
@@ -62,4 +62,4 @@ The iTC documents are generally written in https://asciidoctor.org[Asciidoctor] 
 
 The CCUF Team Tools Working Group has provided a syntax guide for the most common formatting codes that are used that can be downloaded from https://github.com/itc-wgtools/cPP-Tools/tree/master/User%20Guidance[here]. This is meant to be viewed in a text form, or in a program such as https://asciidocfx.com/[AsciidocFX] where you can see both the text and a rich text version live.
 
-The documents also contain several variables which are used to ensure consistent naming. Information about these variables can be found in the {iTC-GitHub}repo1/Template_README.adoc[Template-README] document.
+The documents also contain several variables which are used to ensure consistent naming. Information about these variables can be found in the {iTC-GitHub}cPP/Template_README.adoc[Template-README] document.

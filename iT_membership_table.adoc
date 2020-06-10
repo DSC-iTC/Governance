@@ -1,15 +1,15 @@
-= Coffee Maker Interpretation Team (CMIT) Membership <DATE>
+= Dedicated Security Components Interpretation Team (DIT) Membership <DATE>
 :showtitle:
 :table-caption: Table
-:revnumber: 0.3
-:revdate: 2020-01-29
+:revnumber: 0.1
+:revdate: 2020-06-10
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-ITname: CMIT
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
+:iTC-longname: Dedicated Security Components
+:iTC-shortname: DSC-iTC
+:iTC-ITname: DIT
+:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-website: https://DSC-iTC.github.io/
+:iTC-GitHub: https://github.com/DSC-iTC/cPP
 
 == {iTC-ITname} Membership
 [cols=".^2,.^2,.^2,.^2,.^1",options="header"]

@@ -1,18 +1,18 @@
-= cPP Lifecycle for the _Coffee Maker_ iTC
+= cPP Lifecycle for the Dedicated Security Components iTC
 :showtitle:
 :toc:
 :toclevels: 3
 :table-caption: Table
 :imagesdir: images
 :revnumber: 0.2
-:revdate: 2020-04-09
+:revdate: 2020-06-10
 :xrefstyle: full
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
+:iTC-longname: Dedicated Security Components
+:iTC-shortname: DSC-iTC
+:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-website: https://DSC-iTC.github.io/
+:iTC-GitHub: https://github.com/DSC-iTC/cPP
 
 == Introduction
 As part of the normal work of the {iTC-shortname}, new iterations of the cPP and SD will be released over time. Ideally, when a new version of the cPP is released, everyone would immediately follow the new version, but of course this is not possible as it takes time to transition to updated requirements.

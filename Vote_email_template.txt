@@ -1,10 +1,10 @@
 Greetings,
 
-This email initiates the Formal Approval vote by the <iTC name> to <purpose of vote>.
+This email initiates the Formal Approval vote by the DSC-iTC to <purpose of vote>.
 
-The details of the voting process, including eligibility to vote, can be found in section 7.7 (Voting) of the <iTC> Terms of Reference located at:
+The details of the voting process, including eligibility to vote, can be found in section 7.7 (Voting) of the DSC-iTC Terms of Reference located at:
 
-<URL to the ToR, could be on the CC Portal page (probably best choice for authority) or on the iTC site>
+https://ccusersforum.onlyoffice.com/Products/Files/#1952824
 
 VOTING PERIOD
 
@@ -14,13 +14,13 @@ The voting period will be 2 weeks, ending on <LAST DATE FOR VOTING, which should
 
 BALLOT QUESTION
 
-The Chairperson of the iTC has put forward a motion to chance the name of the Coffee Mater iTC to the Tea Pot iTC. This will cover all references to the CM-iTC to become the TP-iTC.
+<The Chairperson of the iTC has put forward a motion to chance the name of the Coffee Mater iTC to the Tea Pot iTC. This will cover all references to the CM-iTC to become the TP-iTC.>
 
 Vote on the motion put forward by the Chairperson:
 
-	[ ] Approve the motion for name change
-	[ ] Reject the motion for name change
-	[ ] Abstention from the motion for name change
+	[ ] Approve the motion for the motion
+	[ ] Reject the motion for the motion
+	[ ] Abstention from the motion for the motion
 
 VOTING RULES
 

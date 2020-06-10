@@ -1,48 +1,49 @@
-= _Coffee Maker_ iTC (CM-iTC) Status <DATE>
+= Dedicated Security Components iTC (CM-iTC) Status <DATE>
 :showtitle:
 :table-caption: Table
-:revnumber: 0.3
-:revdate: 2020-01-29
+:revnumber: 0.1
+:revdate: 2020-06-10
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
+:iTC-longname: Dedicated Security Components
+:iTC-shortname: DSC-iTC
+:iTC-ITname: DIT
+:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-website: https://DSC-iTC.github.io/
+:iTC-GitHub: https://github.com/DSC-iTC/cPP
 
 == General
 [cols=".^1,.^1,.^1"]
 |====
 
 |*Chair:*
-2.+|_Johann Sebastian Bach_
+2.+|Shawn Geddis
 
 |*Project Manager:*
-2.+|_Ludwig Van Beethoven_
+2.+|
 
 |*Terms of Reference (TOR):*
 |Approved  
-|_Date_
+|v0.2, April 29, 2016
 
 |*Essential Security Requirements (ESR):*
 |Approved
-|_Date_
+|v1.2, May 24, 2016
 
 |*Security Problem Definition (SPD):*
-|_Approved/draft_
-|_Date_
+|
+|
 
 |*Contact the iTC:*
 2.+|contact this iTC at {iTC-email}
 
 |*Collaboration Site(s):*
-2.+|{iTC-website}[GitHub Repository]
+2.+|{iTC-GitHub}[GitHub Repository]
 
 {iTC-website}[{iTC-shortname} Website]
 
-https://ccusersforum.onlyoffice.com[CCUF OnlyOffice]
+https://ccusersforum.onlyoffice.com/Products/Files/#1952254[CCUF OnlyOffice]
 
-https://www.commoncriteriaportal.org[Other]
+https://www.commoncriteriaportal.org/communities/dedicated_security_components.cfm[Common Criteria Portal]
 
 |====
 
@@ -51,16 +52,20 @@ https://www.commoncriteriaportal.org[Other]
 |====
 
 |*Sponsoring Schemes:*
-|_Sponsoring schemes_
+a|Sweden (MSB)
+
+United States (NIAP)
 
 |*Schemes actively involved in the iTC:*
-|_List any other schemes that are actively engaged with the iTC_
+|
 
 |*Position statements:*
-|_Link to any position statement(s) that Schemes have issued_
+a|https://www.commoncriteriaportal.org/files/communities/Position%20Statement%20Common%20Criteria%20MSB%202019.pdf[MSB]
+
+https://www.commoncriteriaportal.org/communities/dsc_msb_ps_united_states.pdf[NIAP]
 
 |*Endorsement statements:*
-|_Link to any endorsement statements that Schemes have issued_
+|
 
 |====
 
@@ -73,11 +78,12 @@ https://www.commoncriteriaportal.org[Other]
 |*Status & Date:*
 
 
-|https://www.commoncriteriaportal.org/files/ppfiles/test_doc_02.pdf[*_cPP for Coffee Makers_*]
+|https://www.commoncriteriaportal.org/files/ppfiles/test_doc_02.pdf[*cPP for Dedicated Security Components*]
 |_1.0_
-|_Published_  
+|_DRAFT_  
 
 2019-04-01
+
 3.+|*Interpretations*
 
 https://www.niap-ccevs.org/Documents_and_Guidance/view_td.cfm?td_id=239[CMIT001 FAU_GEN.1 Audit for FMT_SMF.1]
@@ -86,21 +92,9 @@ https://www.niap-ccevs.org/Documents_and_Guidance/view_td.cfm?td_id=239[CMIT002 
 
 |{itc-website}/published/SD-CM-v1.html[*Supporting Document for evaluating {iTC-longname}*]
 |_1.0_
-|_Published_  
+|_DRAFT_  
 
 2019-04-01
-
-|*_PP-Module for Milk Frothers_*
-|_0.2_
-|_Draft_
-
-3.+|*Interpretations*
-
-None
-
-|*_PP-Configuration for Coffee Machines with Milk Frothers_*
-|_0.2_
-|_Draft_
 
 3.+|*Interpretations*
 
@@ -112,7 +106,7 @@ None
 [cols="1"]
 |====
 
-|_The iTC has been very busy and recently established the CMITS team for reviewing reported issues with the cPP and issuing appropriate interpretations._
+|_The {iTC-shortname} has been very busy and recently established the {iTC-ITname} team for reviewing reported issues with the cPP and issuing appropriate interpretations._
 
 |====
 

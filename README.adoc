@@ -1,8 +1,12 @@
-= README
+= Dedicated Security Components iTC Governance Repository
+
+image::https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg[link="code_of_conduct.adoc]
 
 == Introduction
-This is the repository for the Coffee Maker iTC. 
+This is the governance repository for the DSC-iTC. 
 
-Provide a simple message about what the iTC is doing here (i.e. if you have multiple repositories, state what you are doing in each one of them). 
+The documents here are focused on the management of the iTC. This includes membership information, voting (such as the Terms of Reference or other descriptions), the Interpretation Team, a Code of Conduct and other related documents.
 
-Check out the main page for the iTC at <GITHUB.IO site here>.
+For the cPP, go to the main repository https://github.com/DSC-iTC/cPP[here].
+
+The home page for the DSC-iTC can be found at https://DSC-iTC.github.io.

@@ -1,15 +1,15 @@
-= Coffee Maker Interpretation Team (CMIT) Approvals
+= Dedicated Security Components Interpretation Team (DIT) Approvals
 :showtitle:
 :table-caption: Table
-:revnumber: 0.3
-:revdate: 2020-01-29
+:revnumber: 0.1
+:revdate: 2020-06-10
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-ITname: CMIT
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
+:iTC-longname: Dedicated Security Components
+:iTC-shortname: DSC-iTC
+:iTC-ITname: DIT
+:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-website: https://DSC-iTC.github.io/
+:iTC-GitHub: https://github.com/DSC-iTC/cPP
 
 == {iTC-ITname} Technical Resolution Approvals
 The goal of the {iTC-ITname} is to always reach a decision by consensus. That may not always be possible, but even when it is, the process for ensuring the changes are agreed to is handled by setting restrictions on the Interpretation branch in GitHub. 

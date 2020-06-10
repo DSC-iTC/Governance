@@ -1,19 +1,19 @@
-= Coffee Maker iTC Interpretation Team Membership
+= Dedicated Security Credentials iTC Interpretation Team Membership
 :showtitle:
 :sectnumlevels: 3
 :table-caption: Table
 :imagesdir: images
 :icons: font
 :revnumber: 0.1
-:revdate: 2020-01-29
+:revdate: 2020-06-10
 :xrefstyle: full
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
-:iTC-ITname: CMIT
+:iTC-longname: Dedicated Security Components
+:iTC-shortname: DSC-iTC
+:iTC-ITname: DIT
+:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-website: https://DSC-iTC.github.io/
+:iTC-GitHub: https://github.com/DSC-iTC/cPP
 
 == Introduction
 The {iTC-ITname} is chartered to handle changes between the "normal" release cycle of the iTC. As requests for interpretation are made, the {iTC-ITname} will review the requests and propose changes to the existing cPP and related documents. These changes would be rolled out "immediately" into the appropriate, currently maintained documents (i.e. they would not be rolled into documents which have been sunset). 
@@ -33,6 +33,7 @@ The activity levels here should be verified
 .Membership Participation Requirements
 [cols=".^1,.^1,.^2",options="header"]
 |===
+
 |Participation 
 |Minimum Activity Level
 |Description
