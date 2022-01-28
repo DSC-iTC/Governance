@@ -86,9 +86,6 @@ https://www.commoncriteriaportal.org/communities/dsc_msb_ps_united_states.pdf[NI
 
 3.+|*Interpretations*
 
-https://www.niap-ccevs.org/Documents_and_Guidance/view_td.cfm?td_id=239[CMIT001 FAU_GEN.1 Audit for FMT_SMF.1]
-
-https://www.niap-ccevs.org/Documents_and_Guidance/view_td.cfm?td_id=239[CMIT002 FPT_STM Reliable Time Source correction]
 
 |{itc-website}/published/SD-CM-v1.html[*Supporting Document for evaluating {iTC-longname}*]
 |_1.0_
