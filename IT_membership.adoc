@@ -1,4 +1,4 @@
-= Dedicated Security Credentials iTC Interpretation Team Membership
+= Dedicated Security Components iTC Interpretation Team Membership
 :showtitle:
 :sectnumlevels: 3
 :table-caption: Table
