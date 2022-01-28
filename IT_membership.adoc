@@ -1,22 +1,22 @@
-= Dedicated Security Components iTC Interpretation Team Membership
+= Dedicated Security Components iTC Interpretation Team (DIT) Membership
 :showtitle:
 :sectnumlevels: 3
 :table-caption: Table
 :imagesdir: images
 :icons: font
 :revnumber: 0.1
-:revdate: 2020-06-10
+:revdate: 2022-01-28
 :xrefstyle: full
 
 :iTC-longname: Dedicated Security Components
 :iTC-shortname: DSC-iTC
-:iTC-ITname: DIT
-:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-email: isec-itc-bio-info@ipa.go.jp
 :iTC-website: https://DSC-iTC.github.io/
 :iTC-GitHub: https://github.com/DSC-iTC/cPP
+:iTC-ITname: DIT
 
 == Introduction
-The {iTC-ITname} is chartered to handle changes between the "normal" release cycle of the iTC. As requests for interpretation are made, the {iTC-ITname} will review the requests and propose changes to the existing cPP and related documents. These changes would be rolled out "immediately" into the appropriate, currently maintained documents (i.e. they would not be rolled into documents which have been sunset). 
+The {iTC-ITname} is chartered to handle changes between the "normal" release cycle of the iTC. As requests for interpretation are made, the {iTC-ITname} will review the requests and propose changes to the existing cPP/PP-Module and related documents. These changes would be rolled out "immediately" into the appropriate, currently maintained documents (i.e. they would not be rolled into documents which have been sunset). 
 
 The membership of the {iTC-ITname} is expected to be a subset of the overall iTC membership. There are several reasons for this, the primary one being the ability to rapidly respond to incoming requests. Being a member of the {iTC-ITname} comes with an expectation of a time commitment to regularly participate, both in terms of working on solutions to posed questions as well as voting on proposed solutions.
 
@@ -25,15 +25,9 @@ The membership of the {iTC-ITname} is expected to be a subset of the overall iTC
 === {iTC-ITname} Participation
 {iTC-ITname} members are expected to actively contribute to {iTC-ITname} activities and participate in the decision making process.
 
-[REVIEW]
-====
-The activity levels here should be verified
-====
-
 .Membership Participation Requirements
 [cols=".^1,.^1,.^2",options="header"]
 |===
-
 |Participation 
 |Minimum Activity Level
 |Description
@@ -52,13 +46,10 @@ If it is determined that these rates are not being met, participation rates in t
 
 Membership is in general unlimited in time as long as no special incidents occur (e.g. see regulations below if new applicants want to join the {iTC-ITname} or regulations on involuntary leaving {iTC-ITname}). There should be only one representative per organisation (e.g. company or Scheme) in the {iTC-ITname}. Only members of the {iTC-shortname} can become {iTC-ITname} members. {iTC-ITname} will inform the {iTC-shortname} about all changes to the list of members.
 
+The {iTC-ITname} will be open to all members of the {iTC-shortname}, including scheme representatives. Membership in the {iTC-ITname} by a scheme representative does not imply any requirement on the represented scheme to accept any changes approved by the {itc-itname}. Scheme decisions about what updates to accept or reject are determined by the scheme and not bound to any representation within the {iTC-ITname}.
+
 === {iTC-ITname} Voting Member Size
 As the {iTC-ITname} is designed to be a subset of the entire {iTC-shortname}, it will have a defined size of the voting membership to ensure proper representation. 
-
-[REVIEW]
-====
-The size of the IT should be set here based on the overall size of the iTC. 
-====
 
 .{iTC-ITname} Voting Member Size
 [cols=".^1,.^1",options="header"]
@@ -67,10 +58,10 @@ The size of the IT should be set here based on the overall size of the iTC.
 |Number
 
 |Minimum Size
-|XXX
+|3
 
 |Maximum Size
-|YYY
+|11
 
 |===
 
@@ -79,14 +70,14 @@ The {iTC-ITname} will stop working on incoming requests if the membership falls 
 
 The maximum or minimum sizes can only be changed by the full {iTC-shortname}.
 
-=== Non-Voting Membership
-From time to time the {iTC-ITname} may, at its discretion, accept non-voting participation by official representatives of the CC community (e.g. CCDB representatives, Scheme representatives, iTC or subgroup chairs, etc.). Non-voting participants are welcome to attend meetings and give input as they see fit. Non-voting participants are not subject to the same thresholds for meeting attendance as voting members. In particular the {iTC-ITname} intends that the involvement of non-voting participants should encourage greater levels of Scheme participation, and help to maintain support for cPPs in Position and Endorsement statements.
+=== Non-Voting Membership/Participation
+From time to time the {iTC-ITname} may, at its discretion, accept non-voting participation by official representatives of the CC community (e.g. CCDB representatives, Scheme representatives who are not iTC members, iTC or subgroup chairs, etc.). Non-voting participants are welcome to attend meetings and give input as they see fit. Non-voting participants are not subject to the same thresholds for meeting attendance as voting members. In particular the {iTC-ITname} intends that the involvement of non-voting participants should encourage greater levels of Scheme participation, and help to maintain support for cPPs in Position and Endorsement statements.
 
 To become a non-voting participant, please contact the chair or deputy chair for consideration. The {iTC-ITname} will discuss and approve using standard voting criteria.
 
 == Determining Membership
 === Initial Membership
-The initial membership of the {iTC-ITname} would be determined by the general iTC. The iTC will first select the "officers" of the {iTC-ITname} (two or three, depending on the iTC needs). Selection of the initial officers is by the normal process defined by the ToR. 
+The initial membership of the {iTC-ITname} would be determined by the general iTC. The iTC will first select/approve the "officers" of the {iTC-ITname} (two or three, depending on the iTC needs). Selection of the initial officers is by the normal process defined by the ToR. 
 
 After the officers of the {iTC-ITname} have been named, the remaining membership in the {iTC-ITname} would be by volunteer/nomination up to the maximum number determined by the iTC. Up until the maximum number has been reached, members should be accepted or rejected by consensus.
 
@@ -126,7 +117,7 @@ Also note that an organization is not guaranteed membership in the {iTC-ITname},
 |Any
 |As long as the {iTC-ITname} will remain above the minimum level set, there is no issue with someone leaving. If there are waiting people interested in joining, they could be asked to join. If not, then a general call could be made to check for interest.
 
-|Force Leave
+|Forced Leave
 |Any
 |Forcing someone to leave would generally come at the discretion of the officers and unless there was egregious conduct should be limited to someone not meeting the participation requirements.
 

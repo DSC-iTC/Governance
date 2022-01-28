@@ -2,14 +2,14 @@
 :showtitle:
 :table-caption: Table
 :revnumber: 0.1
-:revdate: 2020-06-10
+:revdate: 2022-01-28
 
 :iTC-longname: Dedicated Security Components
 :iTC-shortname: DSC-iTC
-:iTC-ITname: DIT
-:iTC-email: iTC-DSC@niap-ccevs.org
+:iTC-email: isec-itc-bio-info@ipa.go.jp
 :iTC-website: https://DSC-iTC.github.io/
 :iTC-GitHub: https://github.com/DSC-iTC/cPP
+:iTC-ITname: DIT
 
 == {iTC-ITname} Technical Resolution Approvals
 The goal of the {iTC-ITname} is to always reach a decision by consensus. That may not always be possible, but even when it is, the process for ensuring the changes are agreed to is handled by setting restrictions on the Interpretation branch in GitHub. 
@@ -36,10 +36,25 @@ Approvals that occur through the GitHub approval process are automatically recor
 ^|{iTC-ITname}
 |This is a normal approval within GitHub (of a pull request). There are no rejections or blocks on the change.
 
-|Technical Recommendation
+Due to how GitHub tracks approvals (the author of a Pull Request cannot approve it), the approval settings will be for 1 fewer approvals with the author being considered an implicit approval of the Pull Request. The {iTC-ITname} must track the author of the Pull Request. If the Pull Request originates outside the {iTC-ITname}, this additional explicit approval is required in GitHub (even if merge is possible at the lower number).
+
+.2+|Technical Recommendation
+|GitHub
+|75%
+^|{iTC-ITname}
+|The {iTC-ITname} must first approve a change with no rejections or blocks on the change. The approved change will then be submitted to the entire {iTC-shortname} for approval.
+
+Due to how GitHub tracks approvals (the author of a Pull Request cannot approve it), the approval settings will be for 1 fewer approvals with the author being considered an implicit approval of the Pull Request. The {iTC-ITname} must track the author of the Pull Request. If the Pull Request originates outside the {iTC-ITname}, this additional explicit approval is required in GitHub (even if merge is possible at the lower number).
+
 |Offline (not GitHub)
 |66% with fewer than 25% negative
 ^|iTC
-|If the change has been determined to be sufficiently large or a consensus decision cannot be made by the {iTC-ITname}, the final determination will be done by the whole iTC.
+|The {iTC-shortname} will vote on the change proposed by the {iTC-ITname}. The vote will be conducted by some means not in GitHub, but will be recorded (totals only) with the pull request once the vote has closed.
 
 |====
+
+== Offline Voting
+Offline voting can be performed by whatever means are common for the {iTC-shortname} at the time. The most common methods are an email ballot or a posted survey. These can also be combined (i.e. both could be used for the ballot). Results of the voting must be public within the {iTC-shortname} but individual votes do not need to be publicized outside, only the totals of the voting.
+
+== Approval Process Note (At {iTC-ITname} launch)
+The {iTC-shortname} will follow the Technical Recommendation approval process for all updates. This may be changed later by the {iTC-shortname} through the normal approval process as defined in the ToR.
