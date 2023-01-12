@@ -22,15 +22,15 @@
 |Joined
 
 |Chair
-|Johann Sebastian Bach
-|Mr. Coffee
+|Brian Wood
+|Google
 |Vendor
-|1/1/2019
+|
 
 |Deputy Chair
-|
-|
-|Scheme
+|Shawn Geddis
+|Apple
+|Vendor
 |
 
 |Secretary
@@ -40,15 +40,33 @@
 |
 
 |Member
-|
-|
+|Yi Mao
+|atsec
 |Lab
 |
 
-|Non-Voting
+|Member
+|Ed Morris
+|Gossamer
+|Lab
 |
+
+|Member
+|Stan Potter
+|NSA
+|Scheme
 |
+
+|Member
+|Bob Clemens
 |
+|Scheme
+|
+
+|Member
+|Justin Fisher
+|
+|Lab
 |
 
 
