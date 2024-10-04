@@ -28,9 +28,9 @@
 |
 
 |Deputy Chair
-|Shawn Geddis
-|Apple
-|Vendor
+|Joachim Vandersmissen
+|atsec
+|Lab
 |
 
 |Secretary
@@ -67,6 +67,12 @@
 |Justin Fisher
 |
 |Lab
+|
+
+|Member
+|Shawn Geddis
+|Katalyst
+|Vendor
 |
 
 
