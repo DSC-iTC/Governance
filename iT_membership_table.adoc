@@ -1,8 +1,8 @@
-= Dedicated Security Components Interpretation Team (DIT) Membership <DATE>
+= Dedicated Security Components Interpretation Team (DIT) Membership November 20, 2025
 :showtitle:
 :table-caption: Table
-:revnumber: 0.1
-:revdate: 2020-06-10
+:revnumber: 2
+:revdate: 2025-11-20
 
 :iTC-longname: Dedicated Security Components
 :iTC-shortname: DSC-iTC
@@ -22,12 +22,6 @@
 |Joined
 
 |Chair
-|Brian Wood
-|Google
-|Vendor
-|
-
-|Deputy Chair
 |Joachim Vandersmissen
 |atsec
 |Lab
@@ -37,6 +31,12 @@
 |
 |
 |
+|
+
+|Member
+|Brian Wood
+|Google
+|Vendor
 |
 
 |Member
