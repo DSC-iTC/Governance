@@ -52,12 +52,6 @@
 |
 
 |Member
-|Stan Potter
-|NSA
-|Scheme
-|
-
-|Member
 |Bob Clemens
 |
 |Scheme
